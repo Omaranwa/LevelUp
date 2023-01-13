@@ -101,6 +101,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3613,9 +3625,9 @@ TextureImporter:
       enemies x2_89: -685293643
       enemies x2_36: 1333198543
       enemies x2_129: -2043696893
-      enemies x2_38: 414622739
-      enemies x2_0: 447288642
       enemies x2_93: -1313949461
+      enemies x2_0: 447288642
+      enemies x2_38: 414622739
       enemies x2_1: -638485820
       enemies x2_26: -521359796
       enemies x2_73: 266371697
